@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Homepage</title>
+    <link rel="stylesheet" href="Netflix.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <img src="Netflix-logo-red-black-png.png" alt="Netflix Logo" class="logo">
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">TV Shows</a></li>
+                <li><a href="#">Movies</a></li>
+                <li><a href="#">Latest</a></li>
+                <li><a href="#">My List</a></li>
+            </ul>
+        </nav>
+        <div class="hero-content">
+            <h1>Unlimited movies, TV shows, and more.</h1>
+            <p>Watch anywhere. Cancel anytime.</p>
+            <button>Join Free for a Month</button>
+        </div>
+    </header>
+    <section class="features">
+        <!-- Add feature content here -->
+    </section>
+    <section class="movies">
+        <!-- Add movie content here -->
+    </section>
+    <footer>
+        <p>&copy; 2023 Netflix, Inc.</p>
+    </footer>
+</body>
+</html>
